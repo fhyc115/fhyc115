@@ -1,4 +1,14 @@
-## Hi there 👋
+# Frank - Data Analyst
+
+👋 Hello! I'm Frank, a passionate Data Analyst with a passion for turning complex data into actionable insights.
+
+🔍 With 6 years of experience in e-commerce and growth-stage startups, I specialize in Python, SQL, BigQuery, and Looker Studio.
+
+💡 I'm dedicated to driving data-driven decision-making and process optimization across organizations.
+
+🚀 Check out my repositories to see some of my projects and contributions in data analysis, visualization, and machine learning.
+
+📊 Always eager to collaborate on interesting data projects or discuss the latest in data science and analytics!
 
 <!--
 **fhyc115/fhyc115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
